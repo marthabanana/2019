@@ -1,0 +1,15 @@
+{
+  "short_name": "AfroBanana",
+  "name": "Afro Banana Republic Festival",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#444fa1",
+  "background_color": "#6BCAF1"
+}

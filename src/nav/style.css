@@ -1,0 +1,35 @@
+.navigation.navbar {
+    /*background-color: rgb(68, 79, 161);*/
+    background-color: rgb(68, 81, 128);
+    border-radius: 0;
+    border: none;
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 1.2em;
+    margin: 0 -20px;
+    text-transform: uppercase;
+}
+.navigation .navbar-header a {
+    color: #F8D1D4 !important;
+}
+.navigation .navbar-nav a {
+    color: #fff !important;
+}
+.navigation .tickets a {
+    background-color: #e785b7;
+    border-color: #e785b7;
+    margin: 8px;
+    padding: 5px 12px;
+}
+.navigation .social a {
+    padding: 12px 16px;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #f9dfe1;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #e785b7;
+}
+.navbar-default .navbar-toggle {
+    border: none;
+}

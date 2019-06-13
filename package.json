@@ -1,0 +1,43 @@
+{
+  "name": "abr-2019",
+  "version": "0.0.1",
+  "author": "rudasn@gmail.com",
+  "private": true,
+  "homepage": "https://2019.afrobananarepublic.com",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "dateformat": "^3.0.3",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "react": "^15.5.4",
+    "react-bootstrap": "^0.31.0",
+    "react-dom": "^15.5.4",
+    "react-markdown": "^2.5.0",
+    "react-router-dom": "^4.1.1",
+    "react-stickynode": "^1.3.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.0.0",
+    "imagemin": "^5.3.1",
+    "imagemin-cli": "^3.0.0",
+    "imagemin-jpeg-recompress": "^5.1.0",
+    "imagemin-pngquant": "^5.0.0",
+    "node-serve": "0.0.3",
+    "prettier": "^1.11.1",
+    "react-scripts": "1.0.3",
+    "sharp": "^0.17.3"
+  },
+  "scripts": {
+    "build": "npm run fixtures && react-scripts build && npm run resize && npm run optimize",
+    "deploy": "npm run build && npm run push",
+    "eject": "react-scripts eject",
+    "fixtures": "node bin/fixtures.js",
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
+    "optimize": "node bin/optimize.js",
+    "push": "NODE_DEBUG=gh-pages node bin/deploy",
+    "resize": "node bin/resize",
+    "serve": "npm run build && cd build && node ../node_modules/node-serve",
+    "start": "npm run fixtures && react-scripts start",
+    "test": "react-scripts test --env=jsdom"
+  }
+}

@@ -1,0 +1,40 @@
+#get-tickets {
+    animation: tickets 1.7s ease-in-out infinite alternate;
+    background-color: #e785b7;
+    border-radius: 50%;
+    bottom: 3em;
+    box-shadow: 0 0 16px #fff;
+    color: #fff;
+    display: block;
+    height: 60px;
+    padding: 0.5em;
+    position: fixed;
+    right: 3em;
+    text-decoration: none;
+    transform-origin: 0 0;
+    transform: translate3d(0,0,0);
+    width: 60px;
+    z-index: 5;
+}
+
+#get-tickets span {
+    color: #fff;
+    display: block;
+    font-size: 1.3em;
+    font-weight: bold;
+    left: 50%;
+    position: absolute;
+    text-shadow: 1px 1px 1px #000;
+    text-transform: uppercase;
+    top: -1em;
+    transform: translateX(-50%);
+}
+
+@keyframes tickets {
+    0% {
+        transform: scale(1.0);
+    }
+    100% {
+        transform: scale(1.2) rotate(-10deg);
+    }
+}

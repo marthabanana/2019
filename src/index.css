@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaina|Hammersmith+One');
+body {
+    background: linear-gradient( #d8b6d8, #7f76a4 ) fixed;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0 20px;
+}
+img {
+    height: auto;
+    max-width: 100%;
+}
+dd + dt {
+    margin-top: 16px;
+}
+h1 {
+    font-family: 'Baloo Bhaina', sans-serif;
+    font-size: 4em;
+    line-height: 1;
+    margin: 20px 0 0 0;
+}
+h2, h3 {
+    font-family: 'Hammersmith One', sans-serif;
+}
+dt, h1, h2, h3, h4 {
+    color: rgb(68, 79, 161);
+    text-transform: uppercase;
+}
+strong {
+    color: rgb(68, 79, 161);
+}
+dl:last-child, p:last-child {
+    margin-bottom: 0;
+}
+.disabled {
+    opacity: 0.6;
+}
+.section-break {
+    display: block;
+    padding-bottom: 1.6em;
+}
+.sticky-inner-wrapper {
+    z-index: 1
+}
+
+.box-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 16px -16px 16px 0;
+}
+.box {
+    background-color: rgba(255,255,255,0.3);
+    box-sizing: border-box;
+    margin: 0 16px 16px 0;
+    padding: 16px;
+    position: relative;
+    width: 300px;
+}
+.box h2,
+.box h3 {
+    background-color: rgba(255,255,255,0.5);
+    margin: -16px -16px 16px -16px;
+    padding: 10px 16px;
+    text-align: center;
+    text-shadow: 0 0 2px #fff;
+}
+.modal-title {
+    font-weight: 600;
+    margin-top: 0;
+}
+.modal-title em {
+    bottom: 0.3em;
+    display: inline-block;
+    font-size: 0.6em;
+    font-style: normal;
+    font-weight: normal;
+    position: relative;
+}
+.copyright {
+    text-align: center;
+    color: #fbfbfb;
+    font-size: 0.8em;
+    margin: 20px 0 !important;
+}
+.copyright a {
+    color: inherit;
+}
