@@ -5,9 +5,10 @@ export const photo = image
 
 // Markdown fields
 export const name = 'BOMBASOUL *(DJ SET)*'
-export const genres = '*DISCO* *BROKEN-BEATS* *HOUSE* *JAZZ* *WORLD-GROOVES*'
+export const genres = '*BROKEN-BEATS* *HOUSE* *JAZZ* *LEFTFIELD-ELECTRONICA* *ORGANIC*'
 export const text = `
-Bombasoul was born and raised in the UK on a strict diet of Barbecued Meat and Grilled Halloumi, inspired in equal measure by the heritage of dance music emanating from 1970s New York, Chicago,Det roit and UK club culture. And what will you moving your hips to? Expect an eclectic mix of disco, broken-beats, house, jazz and world grooves.
+If it pushes the boundaries then veteran local DJs Bombasoul is into it, and his diverse musical influences show in his ever-evolving sets. Having dipped into deep funk, jazz mutations, disco, soul, bass, house, techno, Bombasoul now leans towards deeper Afro inspired beats ranging from funk/disco to house and bass driven rhythms.
+
 `.trim()
 
 export default {
