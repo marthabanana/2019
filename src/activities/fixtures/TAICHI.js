@@ -3,9 +3,9 @@ import image from '../images/TAICHI.jpg'
 export const photo = image
 
 // Markdown fields
-export const name = 'SUNSET TAI CHI'
+export const name = 'TAI CHI'
 export const text = `
-Join instructor Loizos on the beach at sunset, to balance, relax and calm the body and mind through the healing energy of Tai Chi and Qigong. These widespread Chinese Arts have been practiced for hundreds of years and by millions of people all around the world. And while the advantages have long been obvious to those who dare to try, modern science has now also confirmed the long list of health benefits associated with these unique transcendent arts of the Far East.
+Join instructor ‘Jay’ for a morning session to balance, relax and calm the body and mind through the healing energy of Tai Chi – a unique transcendent Chinese art form which has been practiced for hundreds of years, and has a long list of scientifically proven health benefits for those who dare to try!
 
 **Capacity:** 30 participants
 
