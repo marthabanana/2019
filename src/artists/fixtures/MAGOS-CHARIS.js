@@ -7,7 +7,7 @@ export const photo = image
 export const name = 'MAGOS & CHARIS *(DJ SET)*'
 export const genres = '*FUNK* *SOUL* *JAZZ* *WORLD*'
 export const text = `
-This fine duo are about to join forces to make some spectacular noise! DJ Magos – owner of Magos Record Store – is known for digging through thousands of records each month and getting hold of some brilliant finds. About to tease you with his selection at the festival, DJ Charis will be mixing things up with funk, soul, jazz and world beats.
+One has a reputation as a passionate curator of vinyls which he purveys from his eclectic record store; the other is a music maestro with a love of sharing his favourite tunes; meet DJ Magos and DJ Charis, who together will be spinning some fine funk, soul, jazz and world grooves, exclusively on vinyl. 
 `.trim()
 
 export default {
