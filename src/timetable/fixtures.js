@@ -1,5 +1,5 @@
 export const STAGE1 = {
-  name: 'Daytime at THE ARC',
+  name: 'THE ARC',
   type: '',
   displayOrder: 0,
 }
