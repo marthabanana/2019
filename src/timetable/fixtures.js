@@ -10,12 +10,12 @@ export const STAGE2 = {
 }
 export const STAGE3 = {
   name: 'UNDER THE TREE DOME',
-  type: '',
+  type: 'activity',
   displayOrder: 2,
 }
 export const STAGE4 = {
   name: 'VALS PLACE',
-  type: '',
+  type: 'activity',
   displayOrder: 3,
 }
 
