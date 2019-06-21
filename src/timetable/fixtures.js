@@ -134,7 +134,7 @@ export default [
     stage: STAGE1,
   },
   {
-    id: 'OPEN DECKS',
+    id: 'OPEN DECKS BY BRANDY SOUR',
     date: new Date('07/21/2019 13:00'),
     stage: STAGE1,
   },
@@ -212,7 +212,7 @@ export default [
     stage: STAGE3,
   },
   {
-    id: 'WORLD VOICE',
+    id: 'MUSICAL JOURNEY OF DISCOVERY',
     date: new Date('07/20/2019 12:30'),
     stage: STAGE3,
   },
