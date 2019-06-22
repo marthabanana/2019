@@ -33,34 +33,34 @@ export default [
     stage: STAGE1,
   },
   {
-    id: 'TRIO TEKKE',
+    id: 'TRIOTEKKE',
     date: new Date('07/17/2019 21:00'),
     stage: STAGE1,
   },
   {
-    id: 'DJ MAGOS-DJ CHARIS',
+    id: 'DJ MAGOS-CHARIS',
     date: new Date('07/17/2019 23:00'),
     stage: STAGE1,
   },
 
   //THE ARC THURSDAY
   {
-    id: 'BRANDY SOUR RADIO',
+    id: 'BRANDY-SOUR-RADIO',
     date: new Date('07/18/2019 11:00'),
     stage: STAGE1,
   },
   {
-    id: 'n.o.k',
+    id: 'NOK',
     date: new Date('07/18/2019 18:00'),
     stage: STAGE1,
   },
   {
-    id: 'ILEKTRIKOS THISEAS',
+    id: 'ILEKTRIKOSTHISEAS',
     date: new Date('07/18/2019 20:00'),
     stage: STAGE1,
   },
   {
-    id: 'APARAPIRA PARAPE',
+    id: 'APARAPIRA-PARAPE',
     date: new Date('07/18/2019 21:00'),
     stage: STAGE1,
   },
@@ -72,7 +72,7 @@ export default [
 
  //THE ARC FRIDAY
   {
-    id: 'BRANDY SOUR RADIO',
+    id: 'BRANDY-SOUR-RADIO',
     date: new Date('07/19/2019 11:00'),
     stage: STAGE1,
   },
@@ -82,7 +82,7 @@ export default [
     stage: STAGE1,
   },
   {
-    id: 'FUZZ BUS',
+    id: 'FUZZBUS',
     date: new Date('07/19/2019 20:00'),
     stage: STAGE1,
   },
@@ -92,18 +92,18 @@ export default [
     stage: STAGE1,
   },
   {
-    id: 'COTSIOS O PIKATILLIS',
+    id: 'COTSIOS-O-PIKATILLIS',
     date: new Date('07/19/2019 23:30'),
     stage: STAGE1,
   },
    //THE ARC SATURDAY
   {
-    id: 'BRANDY SOUR RADIO',
+    id: 'BRANDY-SOUR-RADIO',
     date: new Date('07/20/2019 11:00'),
     stage: STAGE1,
   },
   {
-    id: 'OPEN DECKS',
+    id: 'OPENDECKS',
     date: new Date('07/20/2019 14:00'),
     stage: STAGE1,
   },
@@ -118,7 +118,7 @@ export default [
     stage: STAGE1,
   },
   {
-    id: 'MR. FOX',
+    id: 'FOX',
     date: new Date('07/20/2019 23:00'),
     stage: STAGE1,
   },
@@ -129,12 +129,12 @@ export default [
   },
      //THE ARC SUNDAY
   {
-    id: 'PANZA SELECTA',
+    id: 'PANZASELECTA',
     date: new Date('07/21/2019 11:00'),
     stage: STAGE1,
   },
   {
-    id: 'OPEN DECKS BY BRANDY SOUR',
+    id: 'OPENDECKS',
     date: new Date('07/21/2019 13:00'),
     stage: STAGE1,
   },
@@ -146,7 +146,7 @@ export default [
     stage: STAGE2,
   },
   {
-    id: 'THE FRENCH EXPERIENCE',
+    id: 'THEFRENCHEXPERIENCE',
     date: new Date('07/20/2019 19:30'),
     stage: STAGE2,
   },
@@ -156,7 +156,7 @@ export default [
     stage: STAGE2,
   },
   {
-    id: 'GHETTO KUMBE',
+    id: 'GHETTOKUMBE',
     date: new Date('07/20/2019 23:00'),
     stage: STAGE2,
   },
@@ -169,34 +169,34 @@ export default [
 
   //UNDER THE TREE DOME THURSDAY
   {
-    id: 'WING CHUN',
+    id: 'WINGCHUN',
     date: new Date('07/18/2019 10:00'),
     stage: STAGE3,
   },
   {
-    id: 'ANIMAFEST SCREENINGS',
+    id: 'ANIMAFEST',
     date: new Date('07/18/2019 21:00'),
     stage: STAGE3,
   },
   {
-    id: 'ANIMAFEST SCREENINGS',
+    id: 'ANIMAFEST',
     date: new Date('07/19/2019 01:30'),
     stage: STAGE3,
   },
   
  //UNDER THE TREE DOME FRIDAY
   {
-    id: 'TAI-CHI',
+    id: 'TAICHI',
     date: new Date('07/19/2019 10:00'),
     stage: STAGE3,
   },
   {
-    id: 'ANIMAFEST SCREENINGS',
+    id: 'ANIMAFEST',
     date: new Date('07/19/2019 21:00'),
     stage: STAGE3,
   },
   {
-    id: 'ANIMAFEST SCREENINGS',
+    id: 'ANIMAFEST',
     date: new Date('07/20/2019 01:30'),
     stage: STAGE3,
   },
@@ -207,33 +207,33 @@ export default [
     stage: STAGE3,
   },
   {
-    id: 'KIDS YOGA',
+    id: 'KIDSYOGA',
     date: new Date('07/20/2019 11:30'),
     stage: STAGE3,
   },
   {
-    id: 'MUSICAL JOURNEY OF DISCOVERY',
+    id: 'MUSICALJOURNEY',
     date: new Date('07/20/2019 12:30'),
     stage: STAGE3,
   },
   {
-    id: 'DANCE WORKSHOP',
+    id: 'HIPHOPDANCE',
     date: new Date('07/20/2019 15:00'),
     stage: STAGE3,
   },
   {
-    id: 'ANIMAFEST SCREENINGS',
+    id: 'ANIMAFEST',
     date: new Date('07/20/2019 21:00'),
     stage: STAGE3,
   },
   {
-    id: 'ANIMAFEST SCREENINGS',
+    id: 'ANIMAFEST',
     date: new Date('07/21/2019 01:30'),
     stage: STAGE3,
   },
   //UNDER THE TREE DOME SUNDAY
   {
-    id: 'KIDS YOGA',
+    id: 'KIDSYOGA',
     date: new Date('07/21/2019 10:00'),
     stage: STAGE3,
   },
@@ -244,7 +244,7 @@ export default [
   },
   // VAL'S PLACE
   {
-    id: 'SELF AWARENESS WORKSHOP',
+    id: 'SELFAWARENESS',
     date: new Date('07/21/2019 11:00'),
     stage: STAGE4,
   },
