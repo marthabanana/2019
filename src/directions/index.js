@@ -34,7 +34,7 @@ export default class Directions extends PureComponent {
         <div className="maps box-container">
           <Thumbnail className="box">
             <a
-              href="https://www.google.com/maps/place/The+Afro+Banana+Republic+Festival/@34.8126483,33.5318724,15.5z/data=!4m5!3m4!1s0x14de04a7d9365cb9:0xbd7734f7a94bf975!8m2!3d34.8132764!4d33.5382322"
+              href="https://goo.gl/maps/ze6UTzuJNXLLP1d78"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -44,51 +44,41 @@ export default class Directions extends PureComponent {
         </div>
         <div className="directions-drive box-container">
           <div className="box">
-            <h3>FROM NICOSIA / LARNACA / FAMAGUSTA</h3>
+            <h3>FROM NICOSIA / LIMASSOL / LARNACA / FAMAGUSTA / </h3>
             <ol>
               <li>
-                (From Nicosia/Famagusta) At the Rizoelia roundabout take the
-                exit towards the airport.
+                Follow the signs in your city towards Paphos.
               </li>
               <li>
-                Take the THIRD exit on the Dromolaxia roundabout towards
-                Pervolia.
+                When you reach the Paphos roundabout (with the traffic lights) you go straight.
               </li>
-              <li>At the end of the road turn LEFT at the traffic lights.</li>
-              <li>At the end of the road turn RIGHT.</li>
+              <li>At the next roundabout you go right towards Πόλη Χρυσοχούς.</li>
+              <li> At the end of the road you reach another roundabout and you turn right.</li>
               <li>
-                Continue straight through the village for about 5km, at the
-                roundabout just after the Police station take the third exit.
+                Keep going STRAIGHT for 30km until you reach Πόλη Χρυσοχούς.
               </li>
               <li>
-                Keep Straight for about 8km and turn LEFT at the big AFROBANANA
-                sign.
+                When you enter Poli Chrysochou you will see to your left a DIY store and a few meters later turn right at the Afrobanana Sign.
               </li>
               <li>
-                At the end of the road turn LEFT and you will see the festival
-                on your RIGHT.
+                Keep Straight for 11km and turn right at the Afrobanana sign towards Gialia's Village
               </li>
               <li>
-                Crew assistants and signage will direct you to the Parking Area.
+                You will see the festival to your LEFT after 600m and the Parking to the right.
               </li>
             </ol>
           </div>
           <div className="box">
-            <h3>From Limassol</h3>
+            <h3>From PAPHOS</h3>
             <ol>
-              <li>Take the exit for Ζύγι.</li>
-              <li>At the end of the road, turn LEFT.</li>
-              <li>At the end of the road, turn RIGHT.</li>
-              <li>
-                Keep going straight and then keep LEFT until the end of the
-                road, and then turn left.
+              <li>Follow the signs towards Πόλη Χρυσοχούς.</li>
+              <li>When you enter Poli Chrysochou you will see to your left a DIY store and a few meters later turn right at the Afrobanana Sign.<li>
               </li>
-              <li>At the end of the road turn, RIGHT.</li>
-              <li>At the end of the road turn LEFT on the coastal road.</li>
-              <li>Keep going STRAIGHT for 24 km.</li>
-              <li>You will then see the festival on your RIGHT.</li>
               <li>
-                Crew assistants and signage will direct you to the Parking Area
+                Keep Straight for 11km and turn right at the Afrobanana sign towards Gialia's Village
+              </li>
+              <li>
+                You will see the festival to your LEFT after 600m and the Parking to the right.
               </li>
             </ol>
           </div>

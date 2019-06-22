@@ -5,9 +5,9 @@ export const photo = image
 
 // Markdown fields
 export const name = 'COTSIOS O PIKATILLIS *(DJ SET)*'
-export const genres = ''
+export const genres = '*DISCO* *HOUSE* *WORLD*'
 export const text = `
-Ready to fall in love with the magic? Mention this DJ’s name to any party lover and they’re bound to tell you about some event where brilliant funk and afrobeat sounds kept them on their toes late into the night. And the DJ? None other than Cotsios O Pikatillis, the founder of the ABR Festival who will be stepping into the limelight to tease you all with addictive disco love songs and sexy disco. Having played at massive venues across Cyprus, Germany and beyond, he DJs at many top bars across Cyprus.
+His name has become synonymous with brilliant funk and afrobeat sounds that keep party lovers on their toes late into the night. And Cotsios OPikatillis – the founder of our very own ABR Festival – promises not to disappoint, stepping behind the decks to tease all you festival heads, with addictive disco love songs and sexy beats.
 `.trim()
 
 export default {
