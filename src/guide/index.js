@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 import Thumbnail from '../Thumbnail'
 
-import mapImg from './images/map.png'
+import mapImg from './images/map.jpg'
 
 export default class Guide extends PureComponent {
   render() {
