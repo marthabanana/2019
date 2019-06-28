@@ -58,10 +58,10 @@ export default class Directions extends PureComponent {
                 Keep going STRAIGHT for 30km until you reach Πόλη Χρυσοχούς.
               </li>
               <li>
-                When you enter Poli Chrysochou you will see to your left a DIY store and a few meters later turn right at the Afrobanana Sign.
+                When you enter Πόλη Χρυσοχούς you will see to your left a Petrol Station and turn right on the next turn.
               </li>
               <li>
-                Keep Straight for 11km and turn right at the Afrobanana sign towards Gialia's Village
+                Keep Straight for 11km and turn right at the Πάνω Γιαλία sign towards Gialia's Village
               </li>
               <li>
                 You will see the festival to your LEFT after 600m and the Parking to the right.
@@ -72,10 +72,10 @@ export default class Directions extends PureComponent {
             <h3>From PAPHOS</h3>
             <ol>
               <li>Follow the signs towards Πόλη Χρυσοχούς.</li>
-              <li>When you enter Poli Chrysochou you will see to your left a DIY store and a few meters later turn right at the Afrobanana Sign.<li>
+              <li>When you enter Πόλη Χρυσοχούς you will see to your left a Petrol Station and turn right on the next turn.<li>
               </li>
               <li>
-                Keep Straight for 11km and turn right at the Afrobanana sign towards Gialia's Village
+                Keep Straight for 11km and turn right at the Πάνω Γιαλία sign towards Gialia's Village
               </li>
               <li>
                 You will see the festival to your LEFT after 600m and the Parking to the right.
