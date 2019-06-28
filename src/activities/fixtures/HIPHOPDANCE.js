@@ -1,4 +1,4 @@
-import image from '../images/HIPHOP.jpg'
+import image from '../images/HIPHOPDANCE.jpg'
 
 export const photo = image
 

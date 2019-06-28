@@ -8,7 +8,6 @@ import About from './about'
 import Camping from './guide/camping'
 import Directions from './directions'
 import Environment from './guide/environment'
-import FoodMenu from './guide/menu'
 import Guide from './guide'
 import Landing from './landing'
 import Nav from './nav'
@@ -42,10 +41,71 @@ class App extends PureComponent {
     history.push('/')
   }
 
+
   render() {
     return (
       <section className="abr">
+        <Sticky>
+          <Nav />
+        </Sticky>
+        <Switch>
+          <Route
+            path="/guide/camping"
+            render={() => (
+              <Modal show={true} onHide={this.goHome}>
+                <Modal.Header closeButton>
+                  <Modal.Title>Camping</Modal.Title>
+                </Modal.Header>
+                <Modal.Body>
+                  <Camping />
+                </Modal.Body>
+              </Modal>
+            )}
+          />
+          <Route
+            path="/guide/environment"
+            render={() => (
+              <Modal show={true} onHide={this.goHome}>
+                <Modal.Header closeButton>
+                  <Modal.Title>Environment, Health, &amp; Safety</Modal.Title>
+                </Modal.Header>
+                <Modal.Body>
+                  <Environment />
+                </Modal.Body>
+              </Modal>
+            )}
+          />
+          <Route
+            path="/artist/:id"
+            render={props => (
+              <ArtistModal id={props.match.params.id} goBack={this.goHome} />
+            )}
+          />
+          <Route
+            path="/activity/:id"
+            render={props => (
+              <ActivityModal id={props.match.params.id} goBack={this.goHome} />
+            )}
+          />
+        </Switch>
         <Landing />
+        <a name="timetable" className="section-break">
+          &nbsp;
+        </a>
+        <Timetable />
+        <a name="guide" className="section-break">
+          &nbsp;
+        </a>
+        <Guide />
+        <a name="location" className="section-break">
+          &nbsp;
+        </a>
+        <Directions />
+        <a name="about" className="section-break">
+          &nbsp;
+        </a>
+        <About />
+        <Tickets />
         <p className="copyright">
           Copyright &copy; {new Date().getUTCFullYear()} Alternative Brains Rule
           <br />

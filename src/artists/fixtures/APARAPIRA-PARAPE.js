@@ -1,4 +1,4 @@
-import image from '../images/APARAPIRA-PARAPE.jpg'
+import image from '../images/APARAPIRAPARAPE.jpg'
 
 export const url = 'https://www.facebook.com/AparapiraParapeMusic/'
 export const photo = image

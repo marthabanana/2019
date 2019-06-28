@@ -1,4 +1,4 @@
-import image from '../images/BRANDYSOUR.jpg'
+import image from '../images/BRANDY-SOUR-RADIO.jpg'
 
 export const url = 'https://soundcloud.com/brandysour'
 export const photo = image

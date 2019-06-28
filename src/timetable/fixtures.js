@@ -183,7 +183,7 @@ export default [
     date: new Date('07/19/2019 01:30'),
     stage: STAGE3,
   },
-  
+
  //UNDER THE TREE DOME FRIDAY
   {
     id: 'TAICHI',
@@ -248,3 +248,4 @@ export default [
     date: new Date('07/21/2019 13:00'),
     stage: STAGE4,
   },
+]

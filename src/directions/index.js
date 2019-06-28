@@ -27,7 +27,7 @@ export default class Directions extends PureComponent {
             <h2>PARKING</h2>
             <p>
               This year the new venue provides heaps of space to park your car in a designated
-              parking area, right beside the entrance, for the ultimate ease of access and convenience. 
+              parking area, right beside the entrance, for the ultimate ease of access and convenience.
             </p>
           </div>
         </div>
@@ -72,8 +72,7 @@ export default class Directions extends PureComponent {
             <h3>From PAPHOS</h3>
             <ol>
               <li>Follow the signs towards Πόλη Χρυσοχούς.</li>
-              <li>When you enter Πόλη Χρυσοχούς you will see to your left a Petrol Station and turn right on the next turn.<li>
-              </li>
+              <li>When you enter Πόλη Χρυσοχούς you will see to your left a Petrol Station and turn right on the next turn.</li>
               <li>
                 Keep Straight for 11km and turn right at the Πάνω Γιαλία sign towards Gialia's Village
               </li>

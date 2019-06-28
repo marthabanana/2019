@@ -45,7 +45,7 @@ export default class TopNavBar extends PureComponent {
         <Navbar.Header>
           <Navbar.Brand>
             <a href="/">
-              ABR <sup>2018</sup>
+              ABR <sup>2019</sup>
             </a>
           </Navbar.Brand>
           <Navbar.Toggle />
