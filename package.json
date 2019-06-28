@@ -30,7 +30,6 @@
   "scripts": {
     "build": "npm run fixtures && react-scripts build && npm run resize && npm run optimize",
     "deploy": "npm run build && npm run push",
-    "eject": "react-scripts eject",
     "fixtures": "node bin/fixtures.js",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
     "optimize": "node bin/optimize.js",
