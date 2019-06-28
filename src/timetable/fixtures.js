@@ -134,7 +134,7 @@ export default [
     stage: STAGE1,
   },
   {
-    id: 'OPENDECKS',
+    id: 'ROOTSCREW',
     date: new Date('07/21/2019 13:00'),
     stage: STAGE1,
   },
@@ -218,7 +218,7 @@ export default [
   },
   {
     id: 'HIPHOPDANCE',
-    date: new Date('07/20/2019 15:00'),
+    date: new Date('07/20/2019 16:00'),
     stage: STAGE3,
   },
   {
@@ -228,7 +228,7 @@ export default [
   },
   {
     id: 'ANIMAFEST',
-    date: new Date('07/21/2019 01:30'),
+    date: new Date('07/21/2019 03:00'),
     stage: STAGE3,
   },
   //UNDER THE TREE DOME SUNDAY
@@ -245,6 +245,6 @@ export default [
   // VAL'S PLACE
   {
     id: 'SELFAWARENESS',
-    date: new Date('07/21/2019 11:00'),
+    date: new Date('07/21/2019 13:00'),
     stage: STAGE4,
   },
