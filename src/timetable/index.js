@@ -45,9 +45,7 @@ class Timetable extends PureComponent {
       <div key={key} className="box-container">
         <h2 className="timetable-day-heading">
           {day}
-          {
-            !!day.match(/sunday/i) && <sup> **Free Entry**</sup>
-          }
+          {!!day.match(/sunday/i) && <sup> **Free Entry**</sup>}
         </h2>
         {Object.keys(stages)
           .sort(

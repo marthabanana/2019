@@ -41,7 +41,6 @@ class App extends PureComponent {
     history.push('/')
   }
 
-
   render() {
     return (
       <section className="abr">

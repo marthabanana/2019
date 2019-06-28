@@ -26,8 +26,9 @@ export default class Directions extends PureComponent {
           <div className="box">
             <h2>PARKING</h2>
             <p>
-              This year the new venue provides heaps of space to park your car in a designated
-              parking area, right beside the entrance, for the ultimate ease of access and convenience.
+              This year the new venue provides heaps of space to park your car
+              in a designated parking area, right beside the entrance, for the
+              ultimate ease of access and convenience.
             </p>
           </div>
         </div>
@@ -46,25 +47,33 @@ export default class Directions extends PureComponent {
           <div className="box">
             <h3>FROM NICOSIA / LIMASSOL / LARNACA / FAMAGUSTA / </h3>
             <ol>
+              <li>Follow the signs in your city towards Paphos.</li>
               <li>
-                Follow the signs in your city towards Paphos.
+                When you reach the Paphos roundabout (with the traffic lights)
+                you go straight.
               </li>
               <li>
-                When you reach the Paphos roundabout (with the traffic lights) you go straight.
+                At the next roundabout you go right towards Πόλη Χρυσοχούς.
               </li>
-              <li>At the next roundabout you go right towards Πόλη Χρυσοχούς.</li>
-              <li> At the end of the road you reach another roundabout and you turn right.</li>
+              <li>
+                {' '}
+                At the end of the road you reach another roundabout and you turn
+                right.
+              </li>
               <li>
                 Keep going STRAIGHT for 30km until you reach Πόλη Χρυσοχούς.
               </li>
               <li>
-                When you enter Πόλη Χρυσοχούς you will see to your left a Petrol Station and turn right on the next turn.
+                When you enter Πόλη Χρυσοχούς you will see to your left a Petrol
+                Station and turn right on the next turn.
               </li>
               <li>
-                Keep Straight for 11km and turn right at the Πάνω Γιαλία sign towards Gialia's Village
+                Keep Straight for 11km and turn right at the Πάνω Γιαλία sign
+                towards Gialia's Village
               </li>
               <li>
-                You will see the festival to your LEFT after 600m and the Parking to the right.
+                You will see the festival to your LEFT after 600m and the
+                Parking to the right.
               </li>
             </ol>
           </div>
@@ -72,12 +81,17 @@ export default class Directions extends PureComponent {
             <h3>From PAPHOS</h3>
             <ol>
               <li>Follow the signs towards Πόλη Χρυσοχούς.</li>
-              <li>When you enter Πόλη Χρυσοχούς you will see to your left a Petrol Station and turn right on the next turn.</li>
               <li>
-                Keep Straight for 11km and turn right at the Πάνω Γιαλία sign towards Gialia's Village
+                When you enter Πόλη Χρυσοχούς you will see to your left a Petrol
+                Station and turn right on the next turn.
               </li>
               <li>
-                You will see the festival to your LEFT after 600m and the Parking to the right.
+                Keep Straight for 11km and turn right at the Πάνω Γιαλία sign
+                towards Gialia's Village
+              </li>
+              <li>
+                You will see the festival to your LEFT after 600m and the
+                Parking to the right.
               </li>
             </ol>
           </div>
