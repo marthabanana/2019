@@ -37,7 +37,7 @@ export default [
     stage: STAGE1,
   },
   {
-    id: 'DJ MAGOS-CHARIS',
+    id: 'MAGOS-CHARIS',
     date: new Date('07/17/2019 23:00'),
     stage: STAGE1,
   },
