@@ -1,6 +1,7 @@
 import image from '../images/ILEKTRIKOSTHISEAS.jpg'
 
-export const url = 'https://soundcloud.com/user-173737659/fine-corithian-leather'
+export const url =
+  'https://soundcloud.com/user-173737659/fine-corithian-leather'
 export const photo = image
 
 // Markdown fields

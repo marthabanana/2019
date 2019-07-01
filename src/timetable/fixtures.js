@@ -19,7 +19,6 @@ export const STAGE4 = {
   displayOrder: 3,
 }
 
-
 export default [
   //THE ARC WEDNESDAY
   {
@@ -70,7 +69,7 @@ export default [
     stage: STAGE1,
   },
 
- //THE ARC FRIDAY
+  //THE ARC FRIDAY
   {
     id: 'BRANDY-SOUR-RADIO',
     date: new Date('07/19/2019 11:00'),
@@ -96,7 +95,7 @@ export default [
     date: new Date('07/19/2019 23:30'),
     stage: STAGE1,
   },
-   //THE ARC SATURDAY
+  //THE ARC SATURDAY
   {
     id: 'BRANDY-SOUR-RADIO',
     date: new Date('07/20/2019 11:00'),
@@ -127,14 +126,14 @@ export default [
     date: new Date('07/21/2019 01:00'),
     stage: STAGE1,
   },
-     //THE ARC SUNDAY
+  //THE ARC SUNDAY
   {
     id: 'PANZASELECTA',
     date: new Date('07/21/2019 11:00'),
     stage: STAGE1,
   },
   {
-    id: 'OPENDECKS',
+    id: 'ROOTSCREW',
     date: new Date('07/21/2019 13:00'),
     stage: STAGE1,
   },
@@ -166,7 +165,6 @@ export default [
     stage: STAGE2,
   },
 
-
   //UNDER THE TREE DOME THURSDAY
   {
     id: 'WINGCHUN',
@@ -183,8 +181,8 @@ export default [
     date: new Date('07/19/2019 01:30'),
     stage: STAGE3,
   },
-  
- //UNDER THE TREE DOME FRIDAY
+
+  //UNDER THE TREE DOME FRIDAY
   {
     id: 'TAICHI',
     date: new Date('07/19/2019 10:00'),
@@ -218,7 +216,7 @@ export default [
   },
   {
     id: 'HIPHOPDANCE',
-    date: new Date('07/20/2019 15:00'),
+    date: new Date('07/20/2019 16:00'),
     stage: STAGE3,
   },
   {
@@ -228,7 +226,7 @@ export default [
   },
   {
     id: 'ANIMAFEST',
-    date: new Date('07/21/2019 01:30'),
+    date: new Date('07/21/2019 03:00'),
     stage: STAGE3,
   },
   //UNDER THE TREE DOME SUNDAY
@@ -245,6 +243,7 @@ export default [
   // VAL'S PLACE
   {
     id: 'SELFAWARENESS',
-    date: new Date('07/21/2019 11:00'),
+    date: new Date('07/21/2019 13:00'),
     stage: STAGE4,
   },
+]

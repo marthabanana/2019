@@ -1,6 +1,6 @@
 {
   "name": "abr-2019",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "rudasn@gmail.com",
   "private": true,
   "homepage": "https://2019.afrobananarepublic.com",
@@ -30,7 +30,6 @@
   "scripts": {
     "build": "npm run fixtures && react-scripts build && npm run resize && npm run optimize",
     "deploy": "npm run build && npm run push",
-    "eject": "react-scripts eject",
     "fixtures": "node bin/fixtures.js",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
     "optimize": "node bin/optimize.js",

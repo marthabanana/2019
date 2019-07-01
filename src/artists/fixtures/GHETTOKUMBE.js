@@ -1,4 +1,4 @@
-import image from '../images/GHETTOKUMBE.jpg'
+import image from '../images/GHETTOKUMBER.jpg'
 
 export const url = 'https://youtu.be/AxK0igfWJhk'
 export const photo = image
